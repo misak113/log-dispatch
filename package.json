@@ -1,0 +1,35 @@
+{
+  "name": "log-dispatch",
+  "description": "Log dispatch add functionality for better console and other logging.",
+  "version": "0.1.1",
+  "keywords": [
+    "node",
+    "log",
+    "logger",
+    "dispatch",
+    "console"
+  ],
+  "homepage": "https://github.com/misak113/log-dispatch",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:misak113/log-dispatch.git"
+  },
+  "author": "Michael Žabka <zabka.michael@gmail.com> (https://github.com/misak113/)",
+  "main": "./log-dispatch.js",
+  "directories": {},
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "cli-color": ">=0.2.1"
+  },
+  "engines": {
+    "node": ">=0.8.17"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "optionalDependencies": {},
+  "readmeFilename": "README.md",
+  "_from": "log-dispatch@0.1.1",
+  "license": "BSD"
+}
