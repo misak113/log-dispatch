@@ -22,3 +22,7 @@ exports.d =
 exports.debug = function (m, code, data) {
 	console.log(clc.yellowBright('DEBUG')+': '+m);
 };
+
+exports.crlf = function () {
+	console.log('');
+};

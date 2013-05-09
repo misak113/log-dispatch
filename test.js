@@ -9,3 +9,5 @@ l.log('some text');
 l.warn('some text'); // l.warning('some text');
 
 l.error('some text');
+
+l.crlf();
