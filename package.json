@@ -1,7 +1,7 @@
 {
   "name": "log-dispatch",
   "description": "Log dispatch add functionality for better console and other logging.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": [
     "node",
     "log",
